@@ -1,0 +1,10 @@
+              precision    recall  f1-score   support
+
+    elephant       1.00      1.00      1.00        12
+     giraffe       1.00      1.00      1.00        18
+        lion       1.00      1.00      1.00        24
+       zebra       1.00      1.00      1.00        26
+
+    accuracy                           1.00        80
+   macro avg       1.00      1.00      1.00        80
+weighted avg       1.00      1.00      1.00        80
